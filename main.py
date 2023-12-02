@@ -1,4 +1,6 @@
+import calc
 import util
 
-a = 6
-print(util.fact(a))
+a = 21
+b = 44
+print(util.num_input(a, b))
