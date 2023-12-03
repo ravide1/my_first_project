@@ -1,5 +1,6 @@
 import calc
 import util
+print("Добро пожаловать!")
 a = 21
 b = 44
 menu = {
